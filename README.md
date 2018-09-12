@@ -1,2 +1,2 @@
 # georgesha.github.io
-Personal website
+Personal website deployed
